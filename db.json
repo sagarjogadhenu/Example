@@ -3,6 +3,17 @@
        "operator":"T-Mobile",
        "mode":"LTE",
        "band":"B4"
+   },
+   "deviceInfo": {
+      "MDN":"5551552555",
+      "IMEI":"35-209900-176148-23",
+      "model":"Gen2",
+      "firmwareVersion":"2.5.21",
+      "SSID": {
+         "primary":"LockedWifi",
+         "guest":"OpenWifi"
+      }
+   
    }
 
 }
